@@ -1,0 +1,280 @@
+
+<!DOCTYPE html>
+<html lang="en" class="dark-mode">
+<head>
+    <meta charset="utf-8">
+
+    <title>Tentang kami - RexxCloudID</title>
+    
+    <meta name="description" content="Apa itu RexxCloudID? Di sini Anda dapat menemukan semua informasi tentang kami">
+    <meta name="keywords" content="tentang kami RexxCloudID, runtime kode, runtime kode nodejs, runtime python, runtime dotnet, kode, hosting game berkualitas, server game, hosting RexxCloudID, minecraft,minecraftserver, teamspeak, teamspeak server, kostenlos, Hosting Berkualitas">
+    <meta name="author" content="RexxCloudID">
+
+    <!-- Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Vendor Styles -->
+    <link rel="stylesheet" media="screen" href="/assets/vendor/boxicons/css/boxicons.min.css">
+    <link rel="stylesheet" media="screen" href="/assets/vendor/swiper/swiper-bundle.min.css">
+
+    <!-- Main Theme Styles + Bootstrap -->
+    <link rel="stylesheet" media="screen" href="/assets/css/theme.min.css">
+
+    <!-- Page loading scripts -->
+    <script>
+      (function () {
+        window.onload = function () {
+          const preloader = document.querySelector('.page-loading');
+          preloader.classList.remove('active');
+          setTimeout(function () {
+            preloader.remove();
+          }, 1000);
+        };
+      })();
+    </script>
+</head>
+<body>
+
+
+<main class="page-wrapper">
+    <header class="header navbar navbar-expand-lg navbar-dark position-absolute navbar-sticky">
+        <div class="container px-3">
+            <a href="/" class="navbar-brand pe-3">
+                <img src="/assets/img/logo.png" width="47" alt="RexxCloudID" class="me-3">
+                RexxCloudID
+            </a>
+            <div id="navbarNav" class="offcanvas offcanvas-end bg-dark">
+                <div class="offcanvas-header border-bottom border-light">
+                    <h5 class="offcanvas-title text-white">Menu</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="http://panel.rexxcloud.com/support" class="nav-link">
+                                Support
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/aboutus" class="nav-link">
+                                Tentang kami
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/terms" class="nav-link">
+                                TOS
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/privacy" class="nav-link">
+                                Perlindungan data
+                            </a>
+                        </li>
+
+                            <li class="nav-item">
+                                <a href="https://chat.whatsapp.com/IfHCxxuuanK5xqhnFext2N" class="nav-link">
+                                    <span class="text-warning">GROUP</span>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+                <div class="offcanvas-header border-top border-light">
+                    <a href="http://panel.rexxcloud.com/register" class="btn btn-primary w-100" target="_blank" rel="noopener">
+                        Mulai sekarang
+                    </a>
+                </div>
+            </div>
+            <button type="button" class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a href="http://panel.rexxcloud.com/register" class="btn btn-primary btn-sm fs-sm rounded d-none d-lg-inline-flex" target="_blank" rel="noopener">
+             Mulai sekarang
+            </a>
+        </div>
+    </header>
+
+    
+
+<section class="jarallax dark-mode bg-dark" data-jarallax="" data-speed="0.4">
+    <span class="position-absolute top-0 start-0 w-100 h-100" style="background: radial-gradient(116.18% 118% at 50% 100%, rgba(99, 102, 241, 0.1) 0%, rgba(218, 70, 239, 0.05) 41.83%, rgba(241, 244, 253, 0.07) 82.52%);"></span>
+    <div class="d-flex flex-column py-5">
+        <div class="container position-relative text-center zindex-5 pt-4 pt-md-5 pb-5">
+            <div class="row">
+                <h1 class="pb-2 pb-md-3">Tentang RexxCloudID</h1>
+                <p class="fs-xl pb-4 mb-1 mb-md-2 mb-lg-3 text-center">
+                    RexxCloudID adalah store yang menjual berbagai kebutuhan digital Seperti : Hosting Game, Hosting Bot,Nokos , Jasa Pembuatan Website, Dll 
+RexxCloudID berdiri pada tahun 2021 sering berganti nama.
+                </p>
+                <div class="row row-cols-4 pt-4 pt-md-5 mt-2 mt-xl-4">
+                    <div class="col">
+                        <h3 class="h2 mb-2">8030</h3>
+                        <p class="mb-0"><strong>Server</strong>
+                    </div>
+                    <div class="col">
+                        <h3 class="h2 mb-2">3675</h3>
+                        <p class="mb-0"><strong>Pengguna</strong>
+                    </div>
+                    <div class="col">
+                        <h3 class="h2 mb-2">404</h3>
+                        <p class="mb-0"><strong>Domains</strong>
+                    </div>
+                    <div class="col">
+                        <h3 class="h2 mb-2">250</h3>
+                        <p class="mb-0"><strong>Webspaces</strong>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="container text-center pt-5">
+    <h2 class="h1 mb-4">Akun media sosial kami</h2>
+    <p class="fs-lg text-muted pb-2 mb-5">Ikuti kami dan ikuti terus berita terbaru!!</p>
+    <div class="swiper swiper-initialized swiper-horizontal swiper-pointer-events swiper-backface-hidden" data-swiper-options="{
+          &quot;slidesPerView&quot;: 2,
+          &quot;pagination&quot;: {
+            &quot;el&quot;: &quot;.swiper-pagination&quot;,
+            &quot;clickable&quot;: true
+          },
+          &quot;breakpoints&quot;: {
+            &quot;500&quot;: {
+              &quot;slidesPerView&quot;: 3
+            },
+            &quot;650&quot;: {
+              &quot;slidesPerView&quot;: 4
+            },
+            &quot;900&quot;: {
+              &quot;slidesPerView&quot;: 5
+            },
+            &quot;1100&quot;: {
+              &quot;slidesPerView&quot;: 6
+            }
+          }
+        }">
+        <div class="swiper-wrapper" aria-live="polite">
+            <div class="swiper-slide swiper-slide-next" style="width: 216px;" role="group" aria-label="1 / 3">
+                <div class="position-relative text-center border-end mx-n1">
+                    <a href="https://instagram.com/abptraa.a" class="btn btn-icon btn-secondary btn-instagram btn-lg stretched-link">
+                        <i class="bx bxl-instagram"></i>
+                    </a>
+                    <div class="pt-4">
+                        <h6 class="mb-1">Instagram</h6>
+                        <p class="fs-sm text-muted mb-0">@abptraa.a</p>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide" style="width: 216px;" role="group" aria-label="2 / 3">
+                <div class="position-relative text-center border-end mx-n1">
+                    <a href="https://youtube.com/@rexxcloud" class="btn btn-icon btn-secondary btn-youtube btn-lg stretched-link">
+                        <i class="bx bxl-youtube"></i>
+                    </a>
+                    <div class="pt-4">
+                        <h6 class="mb-1">YouTube</h6>
+                        <p class="fs-sm text-muted mb-0">rexxcloud</p>
+                    </div>
+                </div>
+            </div>
+       </div>
+
+        <!-- Pagination (bullets) -->
+        <div class="swiper-pagination position-relative bottom-0 pt-3 mt-4 swiper-pagination-clickable swiper-pagination-bullets swiper-pagination-horizontal swiper-pagination-lock">
+            <span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1" aria-current="true"></span>
+        </div>
+        <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span>
+    </div>
+</section>
+
+</main>
+
+<footer class="footer pt-5 pb-4 pb-lg-5">
+    <div class="container pt-lg-4">
+        <div class="row pb-5">
+            <div class="col-lg-4 col-md-6">
+                <div class="navbar-brand text-dark p-0 me-0 mb-3 mb-lg-4">
+                    <img src="/assets/img/logo.png" width="47" alt="RexxCloudID" class="me-3">
+                    RexxCloudID
+                </div>
+
+                    <p class="fs-sm pb-lg-3 mb-4">
+                        RexxCloudID adalah store yang menjual berbagai kebutuhan digital Seperti : Hosting Game, Hosting Bot,Nokos , Jasa Pembuatan Website, Dll 
+RexxCloudID berdiri pada tahun 2021 sering berganti nama.
+                    </p>
+            </div>
+            <div class="col-xl-6 col-lg-7 col-md-5 offset-xl-2 offset-md-1 pt-4 pt-md-1 pt-lg-0">
+                <div id="footer-links" class="row">
+                    <div class="col-lg-4">
+                        <h6 class="mb-2">
+                            <a href="#useful-links" class="d-block text-dark dropdown-toggle d-lg-none py-2" data-bs-toggle="collapse">Information</a>
+                        </h6>
+                        <div id="useful-links" class="collapse d-lg-block" data-bs-parent="#footer-links">
+                            <ul class="nav flex-column pb-lg-1 mb-lg-3">
+                                <li class="nav-item">
+                                    <a href="/" class="nav-link d-inline-block px-0 pt-1 pb-2">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="http://panel.rexxcloud.com/support" class="nav-link d-inline-block px-0 pt-1 pb-2">Support</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/aboutus" class="nav-link d-inline-block px-0 pt-1 pb-2">Tentang Kami</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/privacy" class="nav-link d-inline-block px-0 pt-1 pb-2">Perlindungan data</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-3">
+                        <h6 class="mb-2">
+                            <a href="#social-links" class="d-block text-dark dropdown-toggle d-lg-none py-2" data-bs-toggle="collapse">Socials</a>
+                        </h6>
+                        <div id="social-links" class="collapse d-lg-block" data-bs-parent="#footer-links">
+                            <ul class="nav flex-column mb-2 mb-lg-0">
+                                <li class="nav-item">
+                                    <a href="https://youtube.com/@rexxcloud" class="nav-link d-inline-block px-0 pt-1 pb-2">Youtube</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://chat.whatsapp.com/IfHCxxuuanK5xqhnFext2N" class="nav-link d-inline-block px-0 pt-1 pb-2">Group</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://instagram.com/abptraa.a" class="nav-link d-inline-block px-0 pt-1 pb-2">Instagram</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-5 pt-2 pt-lg-0">
+                        <h6 class="mb-2">Contact us</h6>
+                        <a href="mailto:abiputrapratama34@gmail.com" class="fw-medium">abiputrapratama34@gmail.com</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p class="nav d-block fs-xs text-center text-md-start pb-2 pb-lg-0 mb-0">
+            <span class="text-muted">© 2022 - 2023 <b>RexxCloudID</b></span>
+        </p>
+    </div>
+</footer>
+
+
+<a href="#top" class="btn-scroll-top" data-scroll="">
+    <span class="btn-scroll-top-tooltip text-muted fs-sm me-2">Top</span>
+    <i class="btn-scroll-top-icon bx bx-chevron-up"></i>
+</a>
+
+
+<!-- Vendor Scripts -->
+<script src="/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+<script src="/assets/vendor/jarallax/dist/jarallax.min.js"></script>
+<script src="/assets/vendor/rellax/rellax.min.js"></script>
+<script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+<!-- Main Theme Script -->
+<script src="/assets/js/theme.min.js"></script>
+
+
+
+</body>
+</html>

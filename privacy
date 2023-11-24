@@ -1,0 +1,244 @@
+
+<!DOCTYPE html>
+<html lang="en" class="dark-mode">
+<head>
+    <meta charset="utf-8">
+
+    <title>Perlindungan data - RexxCloudID</title>
+    
+    <meta name="description" content="Data Anda penting. Di sini Anda dapat mengetahui data mana yang kami kumpulkan dari Anda dan mana yang tidak">
+    <meta name="keywords" content="privacy,RexxCloudID, runtime kode, runtime kode nodejs, runtime python, runtime dotnet, kode, hosting game berkualitas, server game, hosting RexxCloudID, minecraft,minecraftserver, teamspeak, teamspeak server, kostenlos, Hosting Berkualitas">
+    <meta name="author" content="RexxCloudID">
+
+    <!-- Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Vendor Styles -->
+    <link rel="stylesheet" media="screen" href="/assets/vendor/boxicons/css/boxicons.min.css">
+    <link rel="stylesheet" media="screen" href="/assets/vendor/swiper/swiper-bundle.min.css">
+
+    <!-- Main Theme Styles + Bootstrap -->
+    <link rel="stylesheet" media="screen" href="/assets/css/theme.min.css">
+
+    <!-- Page loading scripts -->
+    <script>
+      (function () {
+        window.onload = function () {
+          const preloader = document.querySelector('.page-loading');
+          preloader.classList.remove('active');
+          setTimeout(function () {
+            preloader.remove();
+          }, 1000);
+        };
+      })();
+    </script>
+</head>
+<body>
+
+
+<main class="page-wrapper">
+    <header class="header navbar navbar-expand-lg navbar-dark position-absolute navbar-sticky">
+        <div class="container px-3">
+            <a href="/" class="navbar-brand pe-3">
+                <img src="/assets/img/logo.png" width="47" alt="RexxCloudID" class="me-3">
+                RexxCloudID
+            </a>
+            <div id="navbarNav" class="offcanvas offcanvas-end bg-dark">
+                <div class="offcanvas-header border-bottom border-light">
+                    <h5 class="offcanvas-title text-white">Menu</h5>
+                    <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item">
+                            <a href="/" class="nav-link">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="http://panel.rexxcloud.com/support" class="nav-link">
+                                Support
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/aboutus" class="nav-link">
+                                Tentang kami
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/terms" class="nav-link">
+                                TOS
+                            </a>
+                        </li>
+                        <li class="nav-item">
+                            <a href="/privacy" class="nav-link">
+                                Perlindungan data
+                            </a>
+                        </li>
+
+                            <li class="nav-item">
+                                <a href="https://chat.whatsapp.com/IfHCxxuuanK5xqhnFext2N" class="nav-link">
+                                    <span class="text-warning">GROUP</span>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+                <div class="offcanvas-header border-top border-light">
+                    <a href="http://panel.rexxcloud.com/register" class="btn btn-primary w-100" target="_blank" rel="noopener">
+                        &nbsp;Mulai sekarang
+                    </a>
+                </div>
+            </div>
+            <button type="button" class="navbar-toggler" data-bs-toggle="offcanvas" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <a href="http://panel.rexxcloud.com/register" class="btn btn-primary btn-sm fs-sm rounded d-none d-lg-inline-flex" target="_blank" rel="noopener">
+                &nbsp;Mulai sekarang
+            </a>
+        </div>
+    </header>
+
+    
+
+<section class="jarallax dark-mode bg-dark min-vh-100" data-jarallax="" data-speed="0.4">
+    <span class="position-absolute top-0 start-0 w-100 h-100" style="background: radial-gradient(116.18% 118% at 50% 100%, rgba(99, 102, 241, 0.1) 0%, rgba(218, 70, 239, 0.05) 41.83%, rgba(241, 244, 253, 0.07) 82.52%);"></span>
+    <div class="min-vh-100 d-flex flex-column py-5">
+        <div class="container position-relative text-center zindex-5 pt-4 pt-md-5 pb-5">
+            <h2 class="h1 mb-md-5 mb-4 py-xl-3 pb-lg-2 pb-md-0 pb-sm-2 mb-lg-5 text-center">perlindungan data</h2>
+            <div class="row gy-4 mb-5 pb-xl-5 pb-md-4 pb-3">
+                <div class="d-flex rellax" data-rellax-percentage="0.5" data-rellax-speed="-0.5" data-disable-parallax-down="md" style="transform: translate3d(10px, -6px, 0px) translate3d(10px, -33px, 0px);">
+                    <div class="align-self-start pe-lg-0 pe-md-4">
+                        <p class="mb-md-4 mb-3 fs-lg text-start">
+                            Deklarasi perlindungan data ini memberi Anda informasi umum tentang jenis, cakupan, dan tujuan bagaimana data Anda digunakan atau dicatat oleh individu pribadi Abi Putra P, Am Anger 7, 93497 Willmering, Telp: +6288232154376 saat Anda mengunjungi beranda kami. Data pribadi adalah semua data yang dengannya Anda dapat diidentifikasi secara pribadi. Informasi terperinci mengenai dasar hukum perlindungan data dapat ditemukan di Federal Data Protection Act (BDSG) dan Telemedia Act (TMG).
+<br>
+                            <br>
+                            <span class="text-dark">Beranda & analitik perlindungan data</span><br>
+                            <br>
+                            Pemrosesan data di beranda kami dilakukan oleh operator situs web. Anda dapat menemukan rincian kontak mereka di pemberitahuan hukum. Kami menerima data Anda melalui situs web kami, misalnya segera setelah Anda mengisi dan mengirimkan formulir kontak kami atau ketika Anda menghubungi kami melalui email. Data lainnya dikumpulkan secara otomatis oleh sistem TI saat Anda mengunjungi situs web. Ini terutama data teknis (misalnya waktu akses halaman). Data ini dikumpulkan secara otomatis segera setelah Anda mengakses situs web kami.<br>
+                            <br>
+                            <span class="text-dark">Hak Anda</span><br>
+                            <br>
+                            Pelanggan kami berhak, berdasarkan permintaan, untuk menerima informasi secara gratis tentang data pribadi yang telah disimpan tentang dirinya. Selain itu, pelanggan kami mempunyai hak untuk memperbaiki data yang salah, memblokir dan menghapus datanya, asalkan tidak ada persyaratan penyimpanan hukum yang sebaliknya. Banyak operasi pemrosesan data yang hanya dapat dilakukan dengan persetujuan tertulis Anda. Harap arahkan semua permintaan informasi, permintaan informasi, keberatan terhadap pemrosesan data atau pertanyaan lain tentang perlindungan data ke alamat email: abiputrapratama34@gmail.com atau detail kontak kami.<br>
+                            <br>
+                            <span class="text-dark">Perlindungan data umum</span><br>
+                            <br>
+                            Kami, sebagai operator situs web ini, sangat memperhatikan perlindungan data pribadi Anda. Kami memperlakukan data pribadi Anda secara rahasia dan sesuai dengan peraturan perlindungan data menurut undang-undang dan pernyataan perlindungan data ini. Oleh karena itu kami ingin menunjukkan bahwa ketika Anda menggunakan beranda kami, berbagai data pribadi dikumpulkan. Data pribadi adalah informasi yang dapat digunakan untuk mengidentifikasi seseorang. Dengan kata lain, semua kemungkinan informasi yang dapat ditelusuri kembali ke seseorang. Ini termasuk nama, alamat email, atau nomor telepon. Tetapi juga data tentang mis. B. Hobi, keanggotaan atau website apa saja yang diakses seseorang merupakan data pribadi. Kami juga ingin menyampaikan bahwa transmisi data melalui Internet, misalnya saat menghubungi kami melalui email, dapat memiliki celah keamanan. Kami tidak mungkin memberikan perlindungan lengkap atas data terhadap akses pihak ketiga.<br>
+                            <br>
+                            <span class="text-dark">Bertanggung jawab</span><br>
+                            Badan yang bertanggung jawab atas pengolahan data pada website ini adalah:<br>
+                            <br>
+                            Abi Putra P<br>
+                            Pröllerstraße 2 - 93426 Roding<br>
+                            Telefon: +6288232154376<br>
+                            eMail: abiputrapratama34@gmail.com<br>
+                            Web: www.rexxcloud.com<br><br>
+                            Pengontrol adalah orang perseorangan atau badan hukum yang, sendiri atau bersama-sama dengan orang lain, menentukan tujuan dan cara pemrosesan data pribadi, misalnya data pribadi atau informasi pribadi. Misalnya nama, alamat email, dll. memutuskan.
+<br>
+                            <br>
+                            <span class="text-dark">File log server</span><br>
+                            <br>
+                            Penyedia secara otomatis mengumpulkan dan menyimpan informasi dalam apa yang disebut file log server, yang secara otomatis dikirimkan oleh browser Anda kepada kami. Ini adalah: jenis browser dan versi browser, sistem operasi yang digunakan, URL pengarah, nama host komputer yang mengakses, waktu permintaan server, alamat IP<br>
+                            <br>
+                            Data ini tidak akan digabungkan dengan sumber data lainnya.<br>
+                            Dasar pemrosesan data adalah Pasal 6 Ayat 1 Huruf b GDPR, yang memungkinkan pemrosesan data untuk memenuhi kontrak atau tindakan pra-kontrak.<br>
+                            <br>
+                            <span class="text-dark">Detail kontak kami</span><br>
+                            <br>
+                            Kami secara tegas menolak penggunaan rincian kontak kami yang dipublikasikan di lini cetak untuk penggunaan komersial dan pribadi, misalnya. B. Email iklan dan spam atau materi informasi lainnya. Kami berhak mengambil tindakan hukum jika terjadi pengiriman berbagai materi/iklan yang tidak diminta atau penggunaan pribadi yang melanggar hukum atas rincian kontak kami.<br>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+</main>
+
+<footer class="footer pt-5 pb-4 pb-lg-5">
+    <div class="container pt-lg-4">
+        <div class="row pb-5">
+            <div class="col-lg-4 col-md-6">
+                <div class="navbar-brand text-dark p-0 me-0 mb-3 mb-lg-4">
+                    <img src="/assets/img/logo.png" width="47" alt="RexxCloudID" class="me-3">
+                    RexxCloudID
+                </div>
+
+                    <p class="fs-sm pb-lg-3 mb-4">
+                        RexxCloudID adalah store yang menjual berbagai kebutuhan digital Seperti : Hosting Game, Hosting Bot,Nokos , Jasa Pembuatan Website, Dll 
+RexxCloudID berdiri pada tahun 2021 sering berganti nama.
+                    </p>
+            </div>
+            <div class="col-xl-6 col-lg-7 col-md-5 offset-xl-2 offset-md-1 pt-4 pt-md-1 pt-lg-0">
+                <div id="footer-links" class="row">
+                    <div class="col-lg-4">
+                        <h6 class="mb-2">
+                            <a href="#useful-links" class="d-block text-dark dropdown-toggle d-lg-none py-2" data-bs-toggle="collapse">Information</a>
+                        </h6>
+                        <div id="useful-links" class="collapse d-lg-block" data-bs-parent="#footer-links">
+                            <ul class="nav flex-column pb-lg-1 mb-lg-3">
+                                <li class="nav-item">
+                                    <a href="/" class="nav-link d-inline-block px-0 pt-1 pb-2">Home</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="http://panel.rexxcloud.com/support" class="nav-link d-inline-block px-0 pt-1 pb-2">Support</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/aboutus" class="nav-link d-inline-block px-0 pt-1 pb-2">Tentang Kami</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="/privacy" class="nav-link d-inline-block px-0 pt-1 pb-2">Perlindungan data</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-3">
+                        <h6 class="mb-2">
+                            <a href="#social-links" class="d-block text-dark dropdown-toggle d-lg-none py-2" data-bs-toggle="collapse">Socials</a>
+                        </h6>
+                        <div id="social-links" class="collapse d-lg-block" data-bs-parent="#footer-links">
+                            <ul class="nav flex-column mb-2 mb-lg-0">
+                                <li class="nav-item">
+                                    <a href="https://youtube.com/@rexxcloud" class="nav-link d-inline-block px-0 pt-1 pb-2">Youtube</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://chat.whatsapp.com/IfHCxxuuanK5xqhnFext2N" class="nav-link d-inline-block px-0 pt-1 pb-2">Group</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a href="https://instagram.com/abptraa.a" class="nav-link d-inline-block px-0 pt-1 pb-2">Instagram</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-xl-4 col-lg-5 pt-2 pt-lg-0">
+                        <h6 class="mb-2">Contact us</h6>
+                        <a href="mailto:abiputrapratama34@gmail.com" class="fw-medium">abiputrapratama34@gmail.com</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p class="nav d-block fs-xs text-center text-md-start pb-2 pb-lg-0 mb-0">
+            <span class="text-muted">© 2022 - 2023 <b>RexxCloudID</b></span>
+        </p>
+    </div>
+</footer>
+
+
+<a href="#top" class="btn-scroll-top" data-scroll="">
+    <span class="btn-scroll-top-tooltip text-muted fs-sm me-2">Top</span>
+    <i class="btn-scroll-top-icon bx bx-chevron-up"></i>
+</a>
+
+
+<!-- Vendor Scripts -->
+<script src="/assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="/assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+<script src="/assets/vendor/jarallax/dist/jarallax.min.js"></script>
+<script src="/assets/vendor/rellax/rellax.min.js"></script>
+<script src="/assets/vendor/swiper/swiper-bundle.min.js"></script>
+
+<!-- Main Theme Script -->
+<script src="/assets/js/theme.min.js"></script>
+
+
+
+</body>
+</html>
